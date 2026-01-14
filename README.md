@@ -8,10 +8,6 @@ pip install -r requirements.txt
 conda activate TMamba
 ```
 
-### Evaluation 
-[Pretrained models] ([https://drive.google.com/drive/folders/1pVhJFwk2f3arP7zUDFAe5_PJrPSG1gc2?usp=drive_link](https://drive.google.com/drive/folders/1Zvkspmz5HiCT3M5_BgYbDlKljtgcOYcj?usp=drive_link)) <br> 
-
-
 ### Testing
 ```
 python main.py --content_dir ./data/cnt --style_dir ./data/sty --mode test
