@@ -17,6 +17,7 @@ python main.py --content_dir ./data/cnt --style_dir ./data/sty --mode test
 Style dataset is WikiArt collected from [WIKIART](https://www.wikiart.org/)  <br>  
 Content dataset is COCO collected from [COCO](https://www.kaggle.com/datasets/nadaibrahim/coco2014) <br>  
 
+The partially processed dataset subset can be found at this link: https://drive.google.com/drive/folders/19DaE8qQNOP08hJs7ctXEnGVk8vnupZFZ?usp=drive_link
 
 ```
 python main.py --content_dir ./data/cnt --style_dir ./data/sty --mode train
