@@ -15,7 +15,7 @@ python main.py --content_dir ./data/cnt --style_dir ./data/sty --mode test
 
 ### Training  
 Style dataset is WikiArt collected from [WIKIART](https://www.wikiart.org/)  <br>  
-content dataset is [COCO]([https://www.wikiart.org/](https://www.kaggle.com/datasets/nadaibrahim/coco2014))  <br>  
+Content dataset is COCO collected from [COCO]([https://www.wikiart.org/](https://www.kaggle.com/datasets/nadaibrahim/coco2014))  <br>  
 
 
 ```
